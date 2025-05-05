@@ -116,8 +116,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=whyareyr&repo=quizzly&theme=tokyonight&hide_border=true&border_radius=10" alt="Quizzly" />
   </a>
   
-  <a href="https://github.com/whyareyr/tickbounty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whyareyr&repo=tickbounty&theme=tokyonight&hide_border=true&border_radius=10" alt="TickBounty" />
+  <a href="https://github.com/whyareyr/tick-bounty">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=whyareyr&repo=tick-bounty&theme=tokyonight&hide_border=true&border_radius=10" alt="TickBounty" />
   </a>
 
   <a href="https://github.com/whyareyr/jobhuntfrontend">
